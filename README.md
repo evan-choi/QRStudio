@@ -44,4 +44,5 @@ Ctrl + S : QR코드를 저장합니다.
 
 
 프로그램 전체 사진
+
 ![](http://postfiles3.naver.net/MjAxNjEwMjBfMTMz/MDAxNDc2ODkyMjc5Njc4.fEGPbPKUlpSYWLqoSzZFSjJX9tyuRtxI_x_3X_RLXMQg.Fo2Wu-HXIWkvbYBpDYyuX309bF5Vz-buFT37F95C1Qkg.PNG.dmsud12156/sc.png?type=w1)
