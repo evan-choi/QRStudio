@@ -41,3 +41,7 @@ Ctrl + S : QR코드를 저장합니다.
 - 지도 > 위도 경도 검색
 
 ![](http://cafeptthumb4.phinf.naver.net/20160602_300/dmsud12156_1464876749363FXsCh_PNG/1.png?type=w740)
+
+
+프로그램 전체 사진
+![](http://postfiles3.naver.net/MjAxNjEwMjBfMTMz/MDAxNDc2ODkyMjc5Njc4.fEGPbPKUlpSYWLqoSzZFSjJX9tyuRtxI_x_3X_RLXMQg.Fo2Wu-HXIWkvbYBpDYyuX309bF5Vz-buFT37F95C1Qkg.PNG.dmsud12156/sc.png?type=w1)
